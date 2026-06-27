@@ -25,7 +25,7 @@ function Projects() {
            <p className="project-text">A Notes application built using React.js and LocalStorage.</p> 
 
             <a className="project-link" href="https://github.com/sahibms/notes-app" target="_blank" rel="noreferrer">GitHub</a>
-            <a className="project-link" href="sahib-notes-app.netlify.app" target="_blank" rel="noreferrer">Live Demo</a>
+            <a className="project-link" href="https://sahib-notes-app.netlify.app" target="_blank" rel="noreferrer">Live Demo</a>
 
             </article>
 
@@ -36,7 +36,7 @@ function Projects() {
            <p className="project-text">A Weather application built using React.js and Weather API.</p> 
 
             <a className="project-link" href="https://github.com/sahibms/weather-app" target="_blank" rel="noreferrer">GitHub</a>
-            <a className="project-link" href="weather-app-eta-ten-82.vercel.app" target="_blank" rel="noreferrer">Live Demo</a>
+            <a className="project-link" href="https://weather-app-eta-ten-82.vercel.app" target="_blank" rel="noreferrer">Live Demo</a>
 
             </article>
 
