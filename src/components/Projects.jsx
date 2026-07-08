@@ -40,6 +40,17 @@ function Projects() {
 
             </article>
 
+            <article className="project-card">
+
+                <h3 className="project-title">Expense Tracker App</h3>
+
+                <p className="project-text">A modern Expense Tracker bulit using React.js. Users can add,edit,delete and manage
+                   income and expense transactions with automatic balance calculation and Local Storage support</p>
+
+                <a className="project-link" href="https://github.com/sahibms/expense-tracker" target="_blank" rel="noreferrer">GitHub</a>  
+                <a className="project-link" href="https://sahib-expense-tracker.netlify.app" target="_blank" rel="noreferrer">Live Demo</a>    
+            </article>
+
             </div>
 
         </section>
