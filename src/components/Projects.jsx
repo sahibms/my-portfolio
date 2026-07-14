@@ -51,6 +51,18 @@ function Projects() {
                 <a className="project-link" href="https://sahib-expense-tracker.netlify.app" target="_blank" rel="noreferrer">Live Demo</a>    
             </article>
 
+            <article className="project-card">
+
+                <h3 className="project-title">Movie Search App</h3>
+
+                <p className="project-text">A modern Movie Search application built with React.js and the OMDb API.
+                 Features include movie search, detailed movie information, favorites management with Local Storage,
+                 and a fully responsive UI optimized for mobile, tablet, and desktop devices.</p>
+
+                <a className="project-link" href="https://github.com/sahibms/movie-search-app" target="_blank" rel="noreferrer">GitHub</a>  
+                <a className="project-link" href="https://movie-search-app-pearl-gamma.vercel.app/" target="_blank" rel="noreferrer">Live Demo</a>    
+            </article>
+
             </div>
 
         </section>
