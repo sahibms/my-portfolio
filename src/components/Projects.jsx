@@ -14,7 +14,7 @@ function Projects() {
                         Users can add,edit,delete and manage daily tasks.</p>
 
                     <a className="project-link" href="https://github.com/sahibms/Todo-app" target="_blank" rel="noreferrer">GitHub</a>
-                    <a className="project-link" href="https://steady-medovik-e3e22d.netlify.app/" target="_blank" rel="noreferrer">Live Demo</a>
+                    <a className="project-link" href="https://sahib-todo-app.netlify.app/" target="_blank" rel="noreferrer">Live Demo</a>
 
                 </article>
 
@@ -55,8 +55,11 @@ function Projects() {
                     <h3 className="project-title">E-Commerce App</h3>
 
                     <p className="project-text">A responsive e-commerce App build with React. This frontent project includes
-                        product listing, search, catrgory filtering, sorting, facorites, cart manangement, React Router navigation, and API integration
-                    </p>
+                        product listing, search, catrgory filtering, sorting, facorites, cart manangement, React Router navigation, and API integration</p>
+
+                    <a className="project-link" href="https://github.com/sahibms/ecommerce-app" target="_blank" rel="noreferrer">GitHub</a>
+                    <a className="project-link" href="https://sahib-ecommerce-app.netlify.app/" target="_blank" rel="noreferrer">Live Demo</a>    
+                    
                 </article>
 
             </div>
