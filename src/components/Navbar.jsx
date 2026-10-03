@@ -1,5 +1,5 @@
 function Navbar() {
-    return(
+    return (
         <nav className="navbar">
             <h2 className="logo">Mohammed M S</h2>
 
