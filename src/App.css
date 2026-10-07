@@ -227,6 +227,9 @@ section {
   border-radius: 15px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, .35);
   transition: .3s;
+  display: flex;
+  flex-direction: column;
+  transition: 0.3s;
 }
 
 .project-card:hover {
@@ -244,6 +247,7 @@ section {
   color: #d1d5db;
   line-height: 1.8;
   margin-bottom: 20px;
+  flex: 1;
 }
 
 .project-link {
