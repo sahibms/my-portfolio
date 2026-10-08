@@ -10,7 +10,7 @@ function Hero() {
 
                 <p className="hero-text">I build responsive web applications using HTML, CSS, JavaScript and React.js</p>
 
-                <button className="hero-btn">Dowonload Resume</button>
+                <a className="hero-btn" href="/Mohammed_MS_Frontend_Resume_FINAL_ONE_PAGE_FULL_REFERENCE-1.pdf" download>Dowonload Resume</a>
             </div>
         </section>
     );
